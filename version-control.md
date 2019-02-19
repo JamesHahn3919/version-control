@@ -18,4 +18,4 @@ To have a version of the repository available for all team members to access and
 
 >Why is it important to track changes to the upstream repository after you create your initial fork?
 
-to ensure your local master is not out of date with the remote/master repository 
+to make sure you're working with the same changes as everyone else and not an outdated version of the upstream repository 
